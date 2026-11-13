@@ -1,8 +1,8 @@
-# 👋 I am Huy, and my full name is **Trần Đào Gia Huy**
+# 👋 WELCOME TO MY PAGE
 
-🎓 Majoring in **Computer Science**, at *University of Information Technology - VNU HCM*  
+My name is Gia Huy. I am major in **Computer Science**, at *University of Information Technology - VNU HCM*  
 
-💻 Have a bit interested in AI, coding game, and so on...**
+💻 Have a bit interested in Computer Vision, coding game, and so on...**
 
 🚀 I love solving problems and creating real-world projects
 
